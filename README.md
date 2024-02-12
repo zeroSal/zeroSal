@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luca Saladino
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning PHP, Python, C, NASM
+- 🌱 I’m currently learning the best I can learn
