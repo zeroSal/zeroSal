@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luca Saladino
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested in CyberSecurity (I am a penetration tester), Software developing in PHP and Flutter (Dart)
 - 🌱 I’m currently learning the best I can learn
